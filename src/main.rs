@@ -1,5 +1,6 @@
 #![allow(unused)]
 pub mod guessgame;
+pub mod array;
 
 use std::io;
 use rand::Rng;
