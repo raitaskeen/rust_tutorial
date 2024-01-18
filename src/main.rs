@@ -3,6 +3,7 @@ pub mod guessgame;
 pub mod array;
 pub mod func;
 pub mod parameters;
+pub mod all_in_one;
 
 use std::io;
 use rand::Rng;
