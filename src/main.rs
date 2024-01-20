@@ -4,6 +4,7 @@ pub mod array;
 pub mod func;
 pub mod parameters;
 pub mod all_in_one;
+pub mod age;
 
 use std::io;
 use rand::Rng;
