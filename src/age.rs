@@ -1,7 +1,13 @@
+extern crate chrono;
 use std::io;
+
+use chrono::Datelike;
 use chrono::Utc;
 use chrono::DateTime;
-use chrono::Utc;
+
+// your other use statements here
+
+// rest of your code
 
 #[derive(Debug)]
 struct Age {
